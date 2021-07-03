@@ -1,5 +1,5 @@
 Here are all the sources for the various image files used in this mod along with the.atlas file:
 
 1. Montenegrin flag: https://thenounproject.com/search/?q=montenegro&i=3147916 by Vectors Point
-2. Raider: https://thenounproject.com/search/?q=musket&i=298302 by Cezary Lopacinski
+2. Raider: https://thenounproject.com/term/musket/369496/ by Misha Petrishchev
 3. Mounted Hajduk: https://thenounproject.com/search/?q=pickaxe&i=3418447 by yandi kiem lie
