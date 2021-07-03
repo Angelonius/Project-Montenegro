@@ -1,6 +1,7 @@
 [
     {
 		"name": "Raider",
+	    "replaces": "Musketman",
 	  "uniqueTo": "Montenegro",
 		"unitType": "Melee",
 		"movement": 2,
