@@ -1,0 +1,30 @@
+[
+    {
+		"name": "Raider",
+	  "uniqueTo": "Montenegro",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 25,
+		"cost": 60,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Can move after attacking","Great Generals II", "No movement cost to pillage"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Mounted Hajduk",
+		"replaces": "Lancer",
+		"uniqueTo": "Montenegro",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 27,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"obsoleteTech": "Combined Arms",
+		"upgradesTo": "Anti-Tank Gun",
+		"promotions": ["Formation I","Logistics"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Consumes [1] [Horses]","No movement cost to pillage","Great Generals II"],
+		"attackSound": "horse"
+	},
+]
