@@ -1,0 +1,26 @@
+[
+  {
+		"name": "Montenegro",
+		"leaderName": "Danilo I",
+		"adjective": ["Montenegrin"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "May God be with us, o holy Metropolitan Danilo I! The holy land of Montenegro is ours! We have a long road ahead of us! The Ottomans will fear us!",
+		"startIntroPart2": "Your Eminence, Montenegro calls upon you to lead and protect it! Will you make Montenegro great? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "You will pay for your war!",
+		"attacked": "Submit or die!",
+		"defeated": "Montenegro has fallen.",
+		"introduction": "Greetings from Cetinje.",
+		"neutralHello": "Hello.",
+		"hateHello": "What is it?",
+		"tradeRequest": "You can trade with us.",
+		"outerColor": [216,5,20],
+		"innerColor": [0,0,0],
+		"unique": "Montenegrin Tribes",
+		"uniques": ["+1 Sight for all land military units","-[25]% [Land] unit maintenance costs","Units ignore terrain costs when moving into any tile with Hills"],
+		"cities": ["Cetinje","Pljevlja","Pluzhine","Zhabljak","Mojkovac","Bijelo Polje","Berane","Petnjica","Rozhaje","Shavnik",
+			"Nikshitch","Kolashin","Andrijevica","Plav","Gusinje","Kotor","Gradina","Podgorica","Tuzi","Herceg Novi",
+			"Tivat","Budva","Bar","Ulcinj","Vranjina",]
+	},
+]
