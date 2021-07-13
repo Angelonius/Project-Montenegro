@@ -10,7 +10,8 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["Can move after attacking","Great Generals II", "No movement cost to pillage"],
+		"uniques": ["Can move after attacking","No movement cost to pillage"],
+	        "promotions": ["Great Generals II"],
 		"attackSound": "shot"
 	},
 	{
@@ -25,7 +26,8 @@
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Anti-Tank Gun",
 		"promotions": ["Formation I","Logistics"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Consumes [1] [Horses]","No movement cost to pillage","Great Generals II"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Consumes [1] [Horses]","No movement cost to pillage"],
+		"promotions": ["Great Generals II"],
 		"attackSound": "horse"
 	},
 ]
