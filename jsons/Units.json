@@ -3,7 +3,7 @@
 		"name": "Raider",
 	    "replaces": "Musketman",
 	  "uniqueTo": "Montenegro",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 25,
 		"cost": 60,
