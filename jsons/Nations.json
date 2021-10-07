@@ -17,6 +17,7 @@
 		"tradeRequest": "You can trade with us.",
 		"outerColor": [216,5,20],
 		"innerColor": [255,255,255],
+	        "favoredReligion": "Christianity",
 		"uniqueName": "Montenegrin Tribes",
 		"uniques": ["+1 Sight for all land military units","-[25]% [Land] unit maintenance costs","Units ignore terrain costs when moving into any tile with Hills"],
 		"cities": ["Cetinje","Pljevlja","Pluzhine","Zhabljak","Mojkovac","Bijelo Polje","Berane","Petnjica","Rozhaje","Shavnik",
