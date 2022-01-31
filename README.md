@@ -10,3 +10,5 @@ v.1.2: Updated the uniques and promotions for the Raider and Mounted Hajduk.
 v.1.3: Updated the Raider in accord to the current updates to the base game.
 
 v.1.4: Added in the "Favored Religion" mechanic in line with the latest update to the base game.
+
+v.1.5: Updated the Nations.json.
