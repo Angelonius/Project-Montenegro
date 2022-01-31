@@ -19,7 +19,7 @@
 		"innerColor": [255,255,255],
 	        "favoredReligion": "Christianity",
 		"uniqueName": "Montenegrin Tribes",
-		"uniques": ["+1 Sight for all land military units","-[25]% maintenance costs for [Land] units","Units ignore terrain costs when moving into any tile with Hills"],
+		"uniques": ["[+1] Sight <for [{Military} {Land}] units>","[-25]% maintenance costs <for [Land] units>","Units ignore terrain costs when moving into any tile with Hills"],
 		"cities": ["Cetinje","Pljevlja","Pluzhine","Zhabljak","Mojkovac","Bijelo Polje","Berane","Petnjica","Rozhaje","Shavnik",
 			"Nikshitch","Kolashin","Andrijevica","Plav","Gusinje","Kotor","Gradina","Podgorica","Tuzi","Herceg Novi",
 			"Tivat","Budva","Bar","Ulcinj","Vranjina",]
